@@ -11,5 +11,5 @@ Uniswap ETH price: '1862.4770699125236' USDt
 
 Ressources used:
 
-https://github.com/gakonst/ethers-rs/blob/master/examples/contracts/examples/events.rs
-https://youtu.be/j_wVh_Sa1rU
+- https://github.com/gakonst/ethers-rs/blob/master/examples/contracts/examples/events.rs
+- https://youtu.be/j_wVh_Sa1rU
